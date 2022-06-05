@@ -2,4 +2,4 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Анализ объектов питания в Москве]( https://github.com/krosskayen/food_establishment/blob/main/food_establishments%20(clear).ipynb) | Определение потенциально успешных игр для планирования рекламной кампании.| *pandas, matplotlib, seaborn, re* |
+| [Анализ объектов питания в Москве]( https://github.com/krosskayen/food_establishment/blob/main/food_establishments%20(clear).ipynb) | Определение параметров для открытия небольшого кафе необычного формата.| *pandas, matplotlib, seaborn, re* |
